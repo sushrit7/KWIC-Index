@@ -49,4 +49,5 @@ See titles.out for an example output.
 
 ## Contributing
 Feel free to contribute to the project and suggest improvements to enhance the KWIC indexing experience!
+
 Happy indexing!   
