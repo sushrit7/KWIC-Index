@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/sushrit/Documents/1.SIUE/Courses/Fall2023/Intensive CS Fundamentals/KWIC Index",
+      "program": "/Users/sushrit/Documents/1.SIUE/Courses/Fall2023/Intensive CS Fundamentals/KWIC Index/build/Debug/outDebug"
+    }
+  ]
+}
